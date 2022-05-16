@@ -16,7 +16,7 @@ import unicodedata
 import time
 
 
-os.environ['TOKEN'] = 'AAAAAAAAAAAAAAAAAAAAANrIbgEAAAAAUXLCav%2B8L69%2Bhe7AEvQBirWKGVs%3D0GJofEqprra9fy4pYDiNkEAIyl9VaavvO4yvVY2C86PJ5lII9j'
+os.environ['TOKEN'] = ''
 
 
 def auth():
